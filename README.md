@@ -19,7 +19,6 @@ El dataset se compone principalmente de dos tablas:
 - `train_transaction.csv`: información de la transacción (montos, códigos, variables temporales).
 - `train_identity.csv`: información adicional del usuario o dispositivo, no siempre disponible.
 
-Por motivos de tamaño y licencia, los archivos **no se incluyen en el repositorio**.  
 Para ejecutar el notebook localmente, se espera la siguiente estructura:
 
 data/raw/
